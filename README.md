@@ -56,6 +56,12 @@ This project presents a Power BI dashboard that analyzes the Housing dataset fro
   -  Average Price SQM and Sum of sqm price by house type (line & stacked bar chart)
 
 
+![House_Market_Overview](dashboard_images/House_Market_Overview.jpg "A screenshot showing the House_Market_Overview.") 
+
+![House_type_analysis](dashboard_images/House_type_analysis.jpg "A screenshot showing the House_type_analysis.") 
+
+![Sales_Performance](dashboard_images/Sales_Performance.jpg "A screenshot showing the Sales_Performance.") 
+
 ---
 
 
